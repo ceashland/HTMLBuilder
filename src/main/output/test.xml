@@ -1,0 +1,12 @@
+<test> 
+ <Text>this is an xml test</Text> 
+	<Name> 
+ 		Clay
+	</Name>
+	<Age> 
+ 		22
+	</Age>
+	<Occupation> 
+ 		Badass
+	</Occupation>
+</test>
